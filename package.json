@@ -1,0 +1,22 @@
+{
+  "name": "react-to-gihub-pages",
+  "version": "1.0.0",
+  "description": "Instructions on how to post page to github pages, look at the read.me file to learn more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmychen10/react-to-gihub-pages.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Jimmy Chen (your fav instuctor/ coach 😊)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmychen10/react-to-gihub-pages/issues"
+  },
+  "homepage": "https://github.com/jimmychen10/react-to-gihub-pages#readme"
+}
